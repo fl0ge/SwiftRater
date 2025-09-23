@@ -208,7 +208,7 @@ import StoreKit
       _appName
     }
     set {
-      _countryCode = newValue
+      _appName = newValue
     }
   }
 
